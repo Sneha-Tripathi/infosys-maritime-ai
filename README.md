@@ -106,3 +106,22 @@ Add the actual screenshots to the `screenshots/` folder and ensure their filenam
 
 Milestone 1 focuses on authentication, password recovery, session management, and dashboards. Freight-rate calculation and quotation generation are outside the scope of this milestone.
 
+
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f6271676-ec35-4869-9cb7-ca8b794f4c4f" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1c77a5b1-d0b3-406a-85c1-0c4661f4b4ae" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5591e3ec-073d-40fb-aa51-f5a3f15f926b" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1b16a1fb-32e8-4336-9dbc-5f27af26cefc" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f00790ba-978e-4f0f-a93c-d86d42100445" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/881029e6-2add-4139-a147-7e7b52a8f3ba" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/27b81689-6164-496b-aab5-48ee20640c8d" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ad3f28bc-72d7-43c0-af1f-b28630dbdfa4" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/db5a60d8-3b03-4d91-b368-3152ddd7f775" />
