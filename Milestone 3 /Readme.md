@@ -257,42 +257,50 @@ Two checks did not pass in the recorded run: one in-app RAG question (*What is a
 ### AI Copilot — Ask the Agents
 The Copilot chat with saved conversations and answer language selection. It lists what it can do (rank, count and average, explain, operations, overview) and understands typos and follow-ups.
 
-![AI Copilot](screenshots/aicopilot.jpg)
+<img width="1365" height="596" alt="image" src="https://github.com/user-attachments/assets/6c0c32f6-e655-48f9-b722-1b0cba401ac2" />
+
 
 ### AI Copilot — Document Translator
 Any text or PDF is auto-detected and translated with Facebook **NLLB-200**, sentence-chunked so long documents are translated completely (here: English → Hindi).
 
-![Document Translator](screenshots/document_translator.jpg)
+<img width="1365" height="592" alt="image" src="https://github.com/user-attachments/assets/62a07e8f-0f5b-4732-b1a6-0924bfacd7c1" />
+
 
 ### Command Center — Anomaly Detection
 An **IsolationForest** model checks quote economics (price ÷ base cost, margin, fuel share) and flags unusual quotes in red; click a dot to open the quote.
 
-![Command Center Anomalies](screenshots/command_center_anomalies.jpg)
+<img width="1363" height="616" alt="image" src="https://github.com/user-attachments/assets/0ef3136d-3b8a-4d9d-a7b2-81b6229534d3" />
+
 
 ### Command Center — Live Knowledge Graph
 Agent → ticket type → entity graph built from the agents' tickets in real time. Nodes can be dragged and zoomed, and clicking an entity opens it.
 
-![Knowledge Graph](screenshots/knowledge_graph.png)
+<img width="1365" height="589" alt="image" src="https://github.com/user-attachments/assets/5e09a5d5-c339-43fb-b2e2-bd02c110906e" />
+
 
 ### Approvals — Awaiting Decision
 Everything that needs a human: agent proposals (e.g. weather re-routes), quote approvals, ML second opinions and Digital Twin recommendations. Each item shows severity, owner, due time and approval chain, with **Approve & execute**, **Reject**, **Resolve** and **Assign** actions.
 
-![Approvals Awaiting](screenshots/approvals_awaiting.png)
+<img width="1365" height="597" alt="image" src="https://github.com/user-attachments/assets/d7976b15-b567-4045-adf6-c3acfbe9b64b" />
+
 
 ### Approvals — Who Approves What (Hindi interface)
 Each decision type with the agent that raises it, its mode (auto / approval), sign-off chain and owner. The whole page is translated into the selected language.
 
-![Who Approves What](screenshots/approvals_who_approves_hindi.png)
+<img width="1365" height="594" alt="image" src="https://github.com/user-attachments/assets/858f184a-7045-4384-9c5a-b4e76724ab62" />
+
 
 ### Approvals — Decisions & Shipment Detail
 Recent decisions in the audit trail. Opening a shipment shows progress, wind, wave height, weather risk and the planned voyage route against storm cells on the map.
 
-![Decisions and Shipment Map](screenshots/approvals_decisions_shipment_map.png)
+<img width="1363" height="581" alt="image" src="https://github.com/user-attachments/assets/0a8dcbcf-4909-4306-b566-c0e9b8007c06" />
+
 
 ### Approvals — Autonomy Policy & Approval Chains
 The Admin chooses which agent actions run automatically and which wait for a human, and who signs off each kind (e.g. Operations Manager → Admin). Changes apply to the next agent cycle and are written to the audit log.
 
-![Autonomy Policy](screenshots/approvals_autonomy_policy.png)
+<img width="1365" height="588" alt="image" src="https://github.com/user-attachments/assets/f6d63490-6dfe-4222-8fa7-ff820e851cde" />
+
 
 ---
 
